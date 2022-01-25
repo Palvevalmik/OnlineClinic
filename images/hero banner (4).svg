@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1169 993" width="1169" height="993">
+	<defs>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="665.75" cy="489.867" r="688.345">
+			<stop offset="0" stop-color="#05a3fd"  />
+			<stop offset="1" stop-color="#004bf1"  />
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="hero banner">
+		<path id="Shape 25" class="shp0" d="M1 11C1 11 412.75 128.63 233 478C107.05 722.79 215.28 923.3 542 970C887.18 1019.33 1168.5 972 1168.5 972L1168.5 50L78 0L1 11Z" />
+	</g>
+</svg>

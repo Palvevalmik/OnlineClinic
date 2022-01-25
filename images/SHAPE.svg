@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2175 2063" width="2175" height="2063">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="1244.354" y1="41.267" x2="930.794" y2="2021.005">
+			<stop offset="0.002" stop-color="#1f1f53"  />
+			<stop offset="0.509" stop-color="#0f418d"  />
+			<stop offset="1" stop-color="#2363af"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="SHAPE">
+		<path id="Shape 18 copy" class="shp0" d="M64.8 1633.51C-36.89 1437.68 -18.16 1199.38 117.76 1025.36C202.8 916.48 334.13 830.91 535.94 845.92C1045.78 883.84 986.44 -40.84 1554.55 1.41C2122.65 43.66 2460.42 663.85 1851.81 1102.83C1422.09 1412.77 1504.04 1824.69 872.49 2036.93C545.35 2146.87 192.25 1878.94 64.8 1633.51Z" />
+	</g>
+</svg>

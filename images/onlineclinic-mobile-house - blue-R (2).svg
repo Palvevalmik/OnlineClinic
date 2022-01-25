@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 779" width="234" height="779">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #1c2056 } 
+	</style>
+	<g id="Client’s feedback">
+		<path id="Rounded Rectangle 4" class="shp0" d="M20.53 10.54L78.32 42.42C223.39 122.45 276.12 304.93 196.1 450.01L53.61 708.32C-26.42 853.39 -208.9 906.12 -353.98 826.09L-411.77 794.22C-556.85 714.19 -609.58 531.7 -529.55 386.63L-387.06 128.32C-307.03 -16.75 -124.55 -69.49 20.53 10.54Z" />
+	</g>
+</svg>

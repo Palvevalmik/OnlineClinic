@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 359 359" width="359" height="359">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.102;fill: #ffffff } 
+	</style>
+	<g id="FOOTER">
+		<g id="contact us">
+			<g id="Group 3">
+				<path id="Ellipse 12" class="shp0" d="M179.5 1C278.08 1 358 80.92 358 179.5C358 278.08 278.08 358 179.5 358C80.92 358 1 278.08 1 179.5C1 80.92 80.92 1 179.5 1Z" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105 105" width="105" height="105">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.502;fill: #52c8f9 } 
+	</style>
+	<g id="hero banner">
+		<g id="shape">
+			<path id="Ellipse 1 copy 6" class="shp0" d="M53 1C81.72 1 105 24.28 105 53C105 81.72 81.72 105 53 105C24.28 105 1 81.72 1 53C1 24.28 24.28 1 53 1Z" />
+		</g>
+	</g>
+</svg>

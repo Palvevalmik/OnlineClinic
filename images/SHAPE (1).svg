@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.502;fill: #52c8f9 } 
+	</style>
+	<g id="SHAPE">
+		<path id="Ellipse 1 copy 8" class="shp0" d="M59.62 0.06C92.49 0.06 119.12 26.71 119.12 59.58C119.12 92.45 92.49 119.09 59.62 119.09C26.76 119.09 0.12 92.45 0.12 59.58C0.12 26.71 26.76 0.06 59.62 0.06Z" />
+	</g>
+</svg>
